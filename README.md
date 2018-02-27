@@ -18,7 +18,7 @@ When considering the training set, previous purchases of 4 products should be co
 ## Download the training set of 1 million sales transactions
 Your Python program should download the training set from the following link:
 
-http://kevincrook.com/utd/market_basket_training.txt
+file already given in the directory:
 
 You Python program should load and analyze this training set in order to recommend products for the test set.
 
@@ -29,7 +29,7 @@ The training set has 1 million records. Each record should be considered an hist
 ## Download the test set of 100 online shopping carts
 Your Python program should download the test set from the following link:
 
-http://kevincrook.com/utd/market_basket_test.txt
+file already given in the directory:
 
 You Python program should load this test set, apply the analytics from the training set, and recommend 1 product for each shopping cart.
 
